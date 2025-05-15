@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424002589577",
+    "project_id": "simo-app-scada",
+    "storage_bucket": "simo-app-scada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424002589577:android:c575b5382c4cea1441c758",
+        "android_client_info": {
+          "package_name": "com.example.simo_app_scada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAslTSFIdyvkyp1-wo2ll4_gy9Zf1SfUU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
