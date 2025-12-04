@@ -1,16 +1,11 @@
 # simo_app_scada
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Final Year Project – TPE SIMO
 
-A few resources to get you started if this is your first Flutter project:
+Developed an intelligent mobile SCADA system for real-time machine supervision. Implemented a complete IIoT architecture using Siemens S7-1200, KEPServerEX (MQTT), Python scripts, Firestore, and Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Data Flow
+<img width="1920" height="1080" alt="tpe" src="https://github.com/user-attachments/assets/4da6a056-2fd6-4050-8a93-57c8ca7bcbaf" />
